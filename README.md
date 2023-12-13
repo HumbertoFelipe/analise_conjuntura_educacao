@@ -1,4 +1,4 @@
-# README for Macroeconomic Data Analysis and Regression Model
+# README - Macroeconomic Data Analysis and Regression Model
 
 ## Overview
 
